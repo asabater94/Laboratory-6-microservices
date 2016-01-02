@@ -12,4 +12,4 @@ Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/Laborato
 ![Account Microservice](https://github.com/asabater94/Laboratory-6-microservices/blob/master/3-RegistrationService.png?raw=true)
 
 ##3.- A second account registered
-![Account Microservice](https://github.com/asabater94/Laboratory-6-microservices/blob/master/4-AccountService.png?raw=true)
+![Account Microservice](https://github.com/asabater94/Laboratory-6-microservices/blob/master/4-AccountService2.png?raw=true)
