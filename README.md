@@ -17,4 +17,4 @@ Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/Laborato
 ##4. A brief report describing what happens when you kill the microservice with port 2222.
 When you kill the Account Microservice in the port 2222, the WebService MicroService shows 'Connection Refused' errors when you try to do an operation. 
 
-When the WebService realizes the AccountService is down, he ask to RegistrationService to another AccountService in other port. After that you can do operation, again.
+When the WebService realizes the AccountService is down, he ask to RegistrationService another AccountService in other port. After that, you can do operation, again.
